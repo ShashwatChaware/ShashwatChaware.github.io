@@ -1,2 +1,2 @@
 # ShashwatChaware.github.io
-Rate Your Professor Website
+Self Learning Perpose Only
